@@ -1,0 +1,941 @@
+Climb,location,rating,rating_dif,star_votes,stars,sub_location,type
+105718186,Utah,21.0,1.0,154,4.9,Zion National Park,Trad
+105741011,Idaho,14.5,0.0,164,3.8,City of Rocks,Trad
+105741116,Utah,24.0,0.0,101,4.1,Maple Canyon,Sport
+105959353,New Hampshire,22.0,0.0,106,3.9,Rumney,Sport
+105804868,New York,13.0,0.0,75,3.6,The Gunks,Trad
+105799490,New York,11.5,0.0,89,3.7,The Gunks,Trad
+105718813,Utah,23.0,0.0,54,4.2,Moab Area,Trad
+105947723,New Hampshire,19.0,0.0,147,3.4,Rumney,Sport
+106097044,California,16.0,0.0,96,3.9,Yosemite National Park,Trad
+105754933,Colorado,17.5,0.0,68,3.7,Boulder,Trad
+105717652,Utah,20.0,0.0,79,3.2,Moab Area,Trad
+105920684,Nevada,20.0,-1.0,107,4.8,Red Rock,Trad
+105749929,Colorado,17.5,-0.5,93,3.5,Canon City,Sport
+105722119,California,17.5,0.0,60,3.2,Joshua Tree National Park,Trad
+105756532,Colorado,16.5,0.5,116,2.9,Boulder,Sport
+105847535,Wyoming,22.75,0.0,105,4.4,Ten Sleep Canyon,Sport
+105732242,Nevada,16.0,0.0,270,4.1,Red Rock,Trad
+105876648,New Hampshire,26.0,0.0,74,3.5,Rumney,Sport
+105717451,Utah,16.0,0.0,91,3.5,Moab Area,Trad
+105717391,Utah,23.0,0.0,191,4.9,Moab Area,Trad
+105840361,California,16.0,0.0,193,4.3,Yosemite National Park,Trad
+105717613,Utah,21.0,1.0,80,4.4,Moab Area,Trad
+105732323,Nevada,18.0,0.0,124,3.1,Red Rock,Sport
+105846613,Wyoming,21.0,0.0,99,4.4,Ten Sleep Canyon,Sport
+105725401,California,17.5,-0.5,90,4.1,Joshua Tree National Park,Trad
+105732557,Nevada,17.0,0.0,144,2.6,Red Rock,Sport
+105748618,Colorado,14.5,0.0,93,3.7,Boulder,Sport
+105804852,Wyoming,16.0,0.0,92,4.8,Grand Teton National Park,Trad
+105753670,Colorado,16.0,0.0,94,2.6,Boulder,Trad
+106148885,New Hampshire,16.0,0.0,79,3.3,Rumney,Sport
+106141398,California,21.0,0.0,67,4.8,Yosemite National Park,Trad
+105996018,Colorado,22.0,0.0,61,2.5,Boulder,Sport
+105763212,Colorado,24.0,0.0,62,4.6,Canon City,Sport
+105764040,Colorado,16.0,0.0,135,2.8,Boulder,Sport
+105962294,New Hampshire,20.0,0.0,59,3.5,Rumney,Sport
+105749296,Colorado,16.5,0.0,152,3.9,Boulder,Trad
+105812947,New York,14.5,0.0,190,3.9,The Gunks,Trad
+105829266,New York,17.5,0.0,66,3.9,The Gunks,Trad
+105725131,California,22.5,0.0,76,4.0,Joshua Tree National Park,Trad
+105740204,Utah,19.0,0.0,82,4.0,Wasatch Range,Trad
+105819734,Nevada,16.5,0.0,137,3.0,Red Rock,Sport
+105717319,Utah,23.0,0.0,139,4.8,Moab Area,Trad
+105944650,Nevada,19.5,0.5,111,2.9,Red Rock,Sport
+105963695,New Hampshire,22.0,0.0,78,3.6,Rumney,Sport
+105939455,Utah,22.75,-0.25,98,4.4,Moab Area,Trad
+105717676,Utah,22.0,0.0,101,4.4,Moab Area,Trad
+105753604,Colorado,22.5,0.0,123,3.6,Boulder,Sport
+105934930,Nevada,17.0,-0.5,56,4.3,Red Rock,Trad
+105723478,California,17.5,0.0,104,4.3,Joshua Tree National Park,Trad
+105740441,Utah,14.5,0.0,115,3.9,Wasatch Range,Trad
+105750514,Colorado,17.5,0.0,110,3.6,Boulder,Trad
+105878341,New Hampshire,16.0,0.0,104,2.9,Rumney,Sport
+105815363,New York,16.0,0.0,111,4.3,The Gunks,Trad
+105862991,California,17.5,0.0,102,4.7,Yosemite National Park,Trad
+105748041,Colorado,17.5,0.0,71,2.0,Boulder,Sport
+105753814,Colorado,13.0,0.0,113,3.1,Boulder,Trad
+105749578,Colorado,24.0,0.0,49,3.8,Boulder,Sport
+105757699,Colorado,21.0,0.0,85,3.6,Rifle,Sport
+105761268,Colorado,21.0,0.0,135,3.3,Boulder,Sport
+106018730,New York,16.0,0.0,113,4.1,The Gunks,Trad
+105826602,Nevada,21.0,0.0,151,3.9,Red Rock,Sport
+105717787,Utah,17.5,0.0,109,4.6,Zion National Park,Trad
+105733007,Nevada,14.5,0.0,84,3.7,Red Rock,Trad
+105829283,New York,16.0,0.0,81,3.6,The Gunks,Trad
+105890675,New York,19.0,0.0,91,4.3,The Gunks,Trad
+105722086,California,20.0,0.0,111,4.6,Joshua Tree National Park,Trad
+105909672,New Hampshire,17.5,0.0,158,4.6,Cathedral Ledge,Trad
+105717343,Utah,26.0,1.0,168,4.7,Moab Area,Trad
+105861212,Utah,21.0,-1.5,49,3.6,Moab Area,Trad
+105922841,New Hampshire,16.0,0.0,89,4.1,Cathedral Ledge,Trad
+106101992,New York,13.0,0.0,85,3.7,The Gunks,Trad
+106106417,Colorado,17.5,0.0,87,2.6,Boulder,Sport
+106107243,Colorado,19.5,1.5,118,3.0,Boulder,Sport
+106254868,New Hampshire,17.5,0.5,88,3.7,Rumney,Sport
+105717403,Utah,20.0,0.0,87,4.1,Moab Area,Trad
+105755278,Colorado,17.5,0.0,115,2.9,Boulder,Sport
+105908757,New Hampshire,24.5,0.0,72,4.5,Rumney,Sport
+105867934,Utah,23.5,0.0,57,4.9,Moab Area,Trad
+106149020,Kentucky,18.0,0.0,167,4.4,Red River Gorge,Sport
+105717505,Utah,22.5,0.0,114,4.0,Moab Area,Trad
+105749938,Colorado,14.5,0.0,106,2.9,Boulder,Trad
+105874232,New Hampshire,26.0,0.0,59,4.4,Rumney,Sport
+105795283,Utah,20.0,0.0,64,4.1,Moab Area,Trad
+105748093,Colorado,14.5,-0.5,305,4.2,Boulder,Trad
+105949670,Nevada,22.5,0.0,91,3.9,Red Rock,Sport
+105717409,Utah,23.5,0.0,106,4.9,Moab Area,Trad
+105717457,Utah,16.0,0.0,79,3.1,Moab Area,Trad
+105820173,Nevada,22.0,1.0,132,4.2,Red Rock,Sport
+106132213,Kentucky,26.0,0.0,104,4.9,Red River Gorge,Sport
+105752890,Colorado,16.0,0.0,82,2.6,Canon City,Sport
+106022527,Colorado,23.0,2.0,58,3.5,Boulder,Sport
+105717631,Utah,21.0,1.0,85,3.6,Moab Area,Trad
+105866205,California,19.0,0.0,67,4.1,Yosemite National Park,Trad
+105860641,California,18.0,-1.0,121,4.5,Yosemite National Park,Trad
+105740039,Utah,18.0,0.0,135,4.4,Wasatch Range,Trad
+105877209,New Hampshire,21.0,0.0,132,4.1,Rumney,Sport
+105922177,New Hampshire,18.0,-1.0,80,4.6,Cathedral Ledge,Trad
+105748705,Colorado,14.5,0.0,111,3.5,Boulder,Trad
+105721666,California,19.0,0.0,156,4.5,Joshua Tree National Park,Trad
+105753502,Colorado,23.0,0.0,94,3.7,Rifle,Sport
+105926144,New Hampshire,14.5,0.0,96,3.5,Rumney,Sport
+105959363,New Hampshire,16.5,0.5,209,4.1,Rumney,Sport
+105722272,California,19.0,-1.0,67,3.9,Joshua Tree National Park,Trad
+105741062,Idaho,19.0,0.0,63,3.7,City of Rocks,Trad
+105718534,Utah,21.0,0.0,77,3.7,Moab Area,Trad
+105748096,Colorado,22.0,0.0,68,3.5,Boulder,Trad
+105749821,Colorado,14.5,0.0,113,2.6,Boulder,Sport
+105732548,Nevada,22.0,0.0,156,3.9,Red Rock,Sport
+105750517,Colorado,19.0,0.0,69,3.7,Boulder,Trad
+105717472,Utah,24.5,1.0,124,4.9,Moab Area,Trad
+105721792,California,21.0,0.0,175,4.7,Joshua Tree National Park,Trad
+105740978,Idaho,17.0,-0.5,129,3.5,City of Rocks,Sport
+105717577,Utah,16.5,0.0,98,2.8,Moab Area,Trad
+105723445,California,19.0,0.0,116,3.9,Joshua Tree National Park,Trad
+105946140,Utah,20.0,0.0,70,3.9,Moab Area,Trad
+105814371,Utah,21.0,0.0,63,4.0,Moab Area,Trad
+105752269,Colorado,21.0,1.0,82,2.9,Boulder,Sport
+105756535,Colorado,20.0,0.5,83,2.9,Boulder,Sport
+105721720,California,20.0,0.0,122,3.9,Joshua Tree National Park,Trad
+105748352,Colorado,17.5,0.0,125,3.7,Boulder,Trad
+105717781,Utah,20.0,0.0,57,3.1,Moab Area,Trad
+105718567,Utah,17.5,0.0,147,3.5,Moab Area,Trad
+105761367,Colorado,17.5,1.5,91,2.6,Boulder,Sport
+105758062,Colorado,21.0,0.0,157,3.9,Boulder,Sport
+105806589,New York,16.0,0.0,119,3.9,The Gunks,Trad
+105732809,Nevada,18.0,0.0,166,4.3,Red Rock,Trad
+105919971,New Hampshire,17.5,0.0,99,4.8,Cathedral Ledge,Trad
+105752794,Colorado,10.5,0.0,97,4.0,Boulder,Trad
+105799049,New York,20.0,0.0,74,3.7,The Gunks,Trad
+105915124,California,17.5,0.0,162,4.0,Yosemite National Park,Trad
+105717487,Utah,18.0,0.0,136,3.8,Moab Area,Trad
+105751804,Wyoming,21.0,0.0,49,4.3,Vedauwoo,Trad
+105755986,Wyoming,20.0,0.0,74,4.2,Vedauwoo,Trad
+105741512,Idaho,16.0,0.0,151,4.0,City of Rocks,Trad
+105754732,Colorado,22.5,0.0,56,3.2,Boulder,Sport
+105758901,Colorado,20.0,0.0,95,3.1,Boulder,Sport
+105725122,California,22.75,0.0,140,4.9,Joshua Tree National Park,Trad
+105857287,Utah,19.0,0.0,119,3.8,Maple Canyon,Sport
+105799088,New York,20.0,-0.5,68,4.0,The Gunks,Trad
+105860759,Kentucky,26.0,0.0,118,4.6,Red River Gorge,Sport
+105930583,Utah,17.5,-0.5,79,4.4,Moab Area,Trad
+105714830,Wyoming,17.0,-0.5,181,4.6,Devil's Tower,Trad
+105751174,Colorado,22.5,0.0,63,3.6,Boulder,Trad
+105917818,New Hampshire,14.5,0.0,137,3.2,Rumney,Sport
+105725389,California,19.0,0.0,139,4.2,Joshua Tree National Park,Trad
+105862873,California,19.5,0.0,83,4.8,Yosemite National Park,Trad
+105879133,New Hampshire,26.0,0.0,100,4.4,Rumney,Sport
+105717439,Utah,22.5,0.0,91,4.4,Moab Area,Trad
+105925756,New Hampshire,14.5,0.0,163,4.0,Cathedral Ledge,Trad
+106001020,Utah,26.0,0.0,88,4.7,Maple Canyon,Sport
+105761262,Colorado,20.0,0.0,125,3.1,Boulder,Sport
+105883364,Utah,24.5,0.0,86,4.8,Moab Area,Trad
+105923846,New Hampshire,16.0,0.0,126,3.1,Rumney,Sport
+105717649,Utah,19.5,0.0,124,3.5,Moab Area,Trad
+105722488,California,18.0,0.0,99,3.9,Joshua Tree National Park,Trad
+105748035,Colorado,22.5,0.0,59,3.5,Boulder,Sport
+105983489,Utah,22.0,0.0,68,3.8,Maple Canyon,Sport
+105718087,Utah,23.0,0.0,136,4.8,Moab Area,Trad
+105722506,California,15.0,0.0,112,3.2,Joshua Tree National Park,Trad
+106109550,Colorado,23.0,0.0,54,2.7,Boulder,Sport
+105956674,New Hampshire,16.0,0.0,55,2.9,Rumney,Sport
+105749740,Colorado,13.0,0.0,101,3.5,Boulder,Trad
+105889540,Kentucky,22.0,0.0,126,4.4,Red River Gorge,Sport
+105717655,Utah,22.0,0.0,61,4.6,Moab Area,Trad
+105750520,Colorado,17.5,0.0,129,3.7,Boulder,Trad
+105741215,Utah,23.0,0.0,74,4.3,Wasatch Range,Trad
+105748163,Colorado,18.0,-1.0,66,3.5,Boulder,Trad
+105717361,Utah,22.0,0.0,190,4.4,Moab Area,Trad
+105739889,Utah,13.0,0.0,160,2.9,Wasatch Range,Sport
+105748999,Colorado,18.0,-1.0,210,4.3,Boulder,Trad
+105750400,Colorado,22.75,0.0,114,4.8,Boulder,Trad
+105759084,Colorado,16.5,0.5,88,3.3,Canon City,Sport
+105717670,Utah,20.0,0.5,101,3.6,Moab Area,Trad
+105718675,Utah,19.5,0.0,49,3.0,Moab Area,Trad
+105764184,Colorado,18.0,0.5,106,2.8,Boulder,Sport
+105748412,Colorado,19.0,0.0,151,4.3,Boulder,Trad
+108095626,Colorado,14.5,0.0,92,4.8,Boulder,Trad
+105748948,Colorado,17.5,0.0,155,4.1,Boulder,Trad
+105722842,California,17.5,0.0,77,4.2,Joshua Tree National Park,Trad
+105857742,International,16.0,0.0,101,4.0,North America,Trad
+105718441,Utah,17.5,0.0,177,3.4,Moab Area,Trad
+105732350,Nevada,21.0,0.0,81,4.3,Red Rock,Trad
+105732431,Nevada,21.0,1.0,207,4.4,Red Rock,Sport
+105718036,Utah,20.0,-1.0,90,4.5,Moab Area,Trad
+105754774,Colorado,17.5,0.0,93,4.0,Boulder,Trad
+105761274,Colorado,25.0,1.5,123,3.8,Boulder,Sport
+105921754,New Hampshire,16.5,0.0,88,3.0,Rumney,Trad
+105827646,Wyoming,18.0,-1.0,79,3.9,Lander Area,Sport
+105751498,Colorado,21.0,0.0,55,4.2,Boulder,Trad
+105714944,Wyoming,22.0,0.0,103,4.9,Devil's Tower,Trad
+105732320,Nevada,22.5,0.0,96,3.8,Red Rock,Sport
+105753067,Colorado,22.5,0.5,120,3.4,Boulder,Trad
+105842838,International,24.0,0.5,97,4.7,North America,Trad
+105756937,Colorado,20.0,0.0,85,3.4,Boulder,Sport
+105740012,Utah,13.0,0.0,173,3.9,Wasatch Range,Trad
+105722041,California,19.0,0.0,73,3.2,Joshua Tree National Park,Trad
+105849782,Nevada,20.0,0.0,97,3.5,Red Rock,Sport
+105748801,Colorado,20.5,0.0,58,4.0,Boulder,Trad
+105760599,Colorado,20.5,-1.0,65,3.0,Boulder,Sport
+105753619,Colorado,17.5,0.0,51,3.9,Boulder,Trad
+105877243,New Hampshire,22.5,0.0,99,3.9,Rumney,Sport
+105722221,California,13.0,-1.5,134,3.4,Joshua Tree National Park,Trad
+105748026,Colorado,23.0,0.0,72,3.3,Boulder,Sport
+105741449,Utah,21.0,0.0,79,4.4,Wasatch Range,Trad
+105841382,Wyoming,21.0,0.0,85,4.3,Lander Area,Sport
+105740990,Utah,19.0,0.0,77,3.8,Wasatch Range,Sport
+105871252,California,21.0,0.0,85,4.7,Yosemite National Park,Trad
+105718297,Utah,23.5,0.0,97,4.8,Moab Area,Trad
+105715082,Wyoming,19.0,0.0,96,4.3,Devil's Tower,Trad
+105732782,Nevada,20.0,-1.0,92,4.7,Red Rock,Trad
+105753511,Colorado,23.0,0.0,60,4.5,Boulder,Trad
+106609255,Utah,17.5,0.0,49,3.1,Moab Area,Trad
+105752350,Colorado,19.5,0.0,56,3.1,Boulder,Trad
+105924990,New Hampshire,17.5,0.0,110,4.3,Cathedral Ledge,Trad
+105761265,Colorado,22.5,-0.25,82,3.2,Boulder,Sport
+106046446,New York,14.5,0.0,86,3.9,The Gunks,Trad
+105741869,Idaho,19.0,0.0,92,3.6,City of Rocks,Trad
+105880562,Nevada,20.0,0.0,87,3.4,Red Rock,Sport
+105841386,Wyoming,19.0,0.0,98,4.1,Lander Area,Sport
+105749248,Colorado,28.5,0.0,61,4.6,Boulder,Trad
+105732470,Nevada,17.5,0.0,137,4.1,Red Rock,Trad
+105968232,Colorado,19.0,0.0,79,3.4,Boulder,Sport
+105740432,Utah,14.5,0.0,100,3.5,Wasatch Range,Trad
+105750442,Colorado,20.0,0.0,58,3.9,Boulder,Trad
+105994585,Colorado,19.0,1.0,84,2.8,Boulder,Sport
+105722743,California,19.0,0.0,161,4.4,Joshua Tree National Park,Trad
+105718558,Utah,17.5,-0.5,72,3.1,Moab Area,Trad
+105751339,Colorado,24.0,1.25,73,3.6,Boulder,Sport
+105721912,California,16.0,0.0,147,3.5,Joshua Tree National Park,Trad
+105753328,Colorado,27.0,0.0,98,4.4,Rifle,Sport
+105923573,New Hampshire,14.5,0.0,83,2.7,Rumney,Sport
+105725404,California,16.5,0.0,109,3.7,Joshua Tree National Park,Trad
+105753004,Colorado,20.0,-1.0,70,4.6,Boulder,Trad
+105749920,Colorado,19.5,-0.5,63,3.3,Canon City,Sport
+105757837,Colorado,16.5,0.0,51,2.8,Boulder,Trad
+105921731,New Hampshire,23.0,0.0,55,3.3,Rumney,Sport
+105764358,Wyoming,18.0,0.0,81,4.6,Vedauwoo,Trad
+106008134,Utah,17.0,-0.5,125,3.0,Wasatch Range,Sport
+105721849,California,20.0,0.0,140,4.3,Joshua Tree National Park,Trad
+105922314,New Hampshire,14.5,0.0,109,2.9,Rumney,Sport
+105717760,Utah,21.0,0.0,61,4.4,Moab Area,Trad
+105748169,Colorado,17.5,0.0,95,3.7,Boulder,Trad
+105740879,Utah,17.5,0.0,100,4.3,Wasatch Range,Trad
+105750454,Colorado,13.0,0.0,108,4.4,Boulder,Trad
+105717601,Utah,20.0,0.0,80,4.0,Moab Area,Trad
+105799568,New York,20.0,0.0,108,4.6,The Gunks,Trad
+105868000,Kentucky,19.0,0.0,156,4.9,Red River Gorge,Trad
+105732746,Nevada,16.0,0.0,71,4.2,Red Rock,Trad
+105760332,Colorado,19.0,0.0,147,3.2,Boulder,Sport
+105821587,Utah,20.0,0.0,172,3.4,Moab Area,Trad
+106227989,New York,11.5,0.0,131,3.4,The Gunks,Trad
+105732725,Nevada,16.0,0.0,108,3.9,Red Rock,Trad
+106179143,Utah,20.0,0.0,58,4.5,Moab Area,Trad
+105722299,California,16.0,0.0,138,3.0,Joshua Tree National Park,Trad
+105722266,California,16.0,0.0,149,3.7,Joshua Tree National Park,Trad
+105748990,Colorado,23.5,0.0,70,4.6,Canon City,Sport
+106167844,California,13.0,0.0,96,4.7,Yosemite National Park,Trad
+105717598,Utah,23.0,0.0,149,4.9,Moab Area,Trad
+105897523,New York,15.5,0.0,155,4.0,The Gunks,Trad
+106207686,Colorado,27.0,0.0,84,4.7,Boulder,Sport
+105724111,California,19.0,0.0,75,3.5,Joshua Tree National Park,Trad
+105725620,California,20.0,0.0,74,4.2,Joshua Tree National Park,Trad
+105748993,Colorado,22.0,0.0,127,4.0,Canon City,Sport
+105715028,Wyoming,17.5,0.0,119,4.7,Devil's Tower,Trad
+105717607,Utah,22.5,0.0,71,4.7,Moab Area,Trad
+105732566,Nevada,21.0,0.0,125,3.3,Red Rock,Sport
+105803592,New York,16.5,0.0,71,4.1,The Gunks,Trad
+105717358,Utah,23.5,0.0,78,4.5,Moab Area,Trad
+105740135,Utah,21.0,1.0,121,3.5,Wasatch Range,Sport
+105718000,Utah,21.0,0.0,72,4.4,Moab Area,Trad
+105717712,Utah,26.0,2.0,66,4.9,Moab Area,Trad
+105801570,New York,16.5,0.0,114,4.3,The Gunks,Trad
+105761337,Colorado,19.0,0.0,122,3.0,Boulder,Sport
+105829767,New York,20.0,0.0,61,4.4,The Gunks,Trad
+106187777,California,14.5,0.0,97,4.6,Yosemite National Park,Trad
+106009353,New Hampshire,19.0,0.0,68,2.8,Rumney,Sport
+105808911,Nevada,19.5,-0.5,98,3.4,Red Rock,Sport
+105758904,Colorado,19.0,-1.0,85,3.1,Boulder,Sport
+106034654,New York,7.5,0.0,131,3.7,The Gunks,Trad
+105751144,Colorado,17.5,0.5,103,3.5,Boulder,Trad
+105807027,Utah,20.0,0.0,51,3.5,Moab Area,Trad
+105748229,Colorado,23.5,1.0,82,3.4,Boulder,Sport
+105874595,California,21.0,0.0,123,4.2,Yosemite National Park,Trad
+105741173,Utah,22.0,0.0,126,4.7,Wasatch Range,Trad
+105740096,Utah,18.0,0.0,180,4.7,Wasatch Range,Trad
+105748942,Colorado,22.5,0.0,130,4.5,Boulder,Trad
+105740690,Utah,19.0,0.0,74,3.9,Wasatch Range,Sport
+105989461,Utah,17.5,0.0,94,4.0,Maple Canyon,Sport
+105752563,Colorado,23.5,0.5,63,3.5,Boulder,Sport
+105808831,Utah,26.0,1.0,77,4.3,Maple Canyon,Sport
+105740231,Utah,17.5,0.0,175,3.5,Wasatch Range,Trad
+105718705,Utah,19.5,0.0,90,3.5,Moab Area,Trad
+105740993,Utah,14.5,0.0,71,3.3,Wasatch Range,Trad
+105968891,New Hampshire,21.0,0.0,68,3.6,Rumney,Sport
+105722146,California,20.0,0.0,63,4.2,Joshua Tree National Park,Trad
+105924807,California,17.5,0.0,160,5.0,Yosemite National Park,Trad
+105717823,Utah,20.0,0.0,101,4.2,Zion National Park,Trad
+105800395,New York,16.5,0.0,140,4.6,The Gunks,Trad
+105836047,California,14.5,0.0,166,4.0,Yosemite National Park,Trad
+105760851,Colorado,23.5,0.0,65,4.4,Boulder,Sport
+106106801,New York,20.0,0.0,69,4.4,The Gunks,Trad
+105833552,California,16.0,-0.5,103,4.4,Yosemite National Park,Trad
+105918869,Nevada,19.0,-1.0,120,3.5,Red Rock,Sport
+105758587,Colorado,20.0,0.0,73,3.6,Boulder,Trad
+105762816,Colorado,22.0,1.0,70,2.5,Boulder,Sport
+105732227,Nevada,8.5,0.0,110,2.9,Red Rock,Trad
+105740654,Utah,18.0,0.0,61,4.9,Wasatch Range,Trad
+105862249,Utah,20.0,0.0,63,3.5,Moab Area,Trad
+105717643,Utah,19.5,0.0,73,3.1,Moab Area,Trad
+105801940,New York,17.5,0.0,103,4.8,The Gunks,Trad
+105950518,New York,13.0,0.0,97,3.9,The Gunks,Trad
+105870718,California,20.0,0.0,117,4.1,Yosemite National Park,Trad
+105732518,Nevada,21.0,0.0,133,3.6,Red Rock,Sport
+105718114,Utah,21.0,-2.0,97,4.7,Moab Area,Trad
+105749536,Colorado,22.0,0.0,67,3.9,Boulder,Trad
+105724099,California,17.5,0.0,60,4.2,Joshua Tree National Park,Trad
+105749824,Colorado,16.0,0.0,138,3.1,Boulder,Trad
+105724597,California,16.0,0.0,111,3.5,Joshua Tree National Park,Trad
+105732335,Nevada,16.0,0.0,131,3.2,Red Rock,Trad
+106281218,New York,14.5,1.5,102,3.5,The Gunks,Trad
+105740945,Idaho,16.0,0.0,155,3.9,City of Rocks,Sport
+105756373,Wyoming,24.0,0.5,79,5.0,Vedauwoo,Trad
+105718753,Utah,23.0,0.0,93,4.1,Moab Area,Trad
+105741593,Idaho,17.5,0.0,166,4.1,City of Rocks,Sport
+105757414,Colorado,19.0,0.0,129,4.0,Boulder,Trad
+105944620,Nevada,22.5,0.0,82,3.5,Red Rock,Sport
+105753940,Colorado,22.5,0.0,99,3.5,Rifle,Sport
+105749923,Colorado,20.0,0.0,64,3.4,Canon City,Sport
+105761334,Colorado,21.0,0.0,56,2.4,Boulder,Sport
+105753400,Colorado,26.0,0.0,83,4.4,Rifle,Sport
+105760224,Colorado,23.0,0.0,70,3.2,Boulder,Sport
+105884815,New Hampshire,16.0,0.0,187,4.8,Cannon Cliff ,Trad
+105933907,Colorado,16.0,0.0,97,3.0,Boulder,Sport
+105763194,Colorado,24.0,0.5,66,3.2,Boulder,Sport
+106312281,Utah,20.0,0.0,74,4.4,Moab Area,Trad
+105741035,Idaho,20.0,0.0,113,4.0,City of Rocks,Sport
+105856757,Wyoming,23.0,0.0,107,4.8,Ten Sleep Canyon,Sport
+105748265,Colorado,16.5,0.0,121,4.3,Boulder,Trad
+105821892,Nevada,16.0,0.0,114,3.9,Red Rock,Trad
+106015558,Colorado,24.0,0.5,85,4.7,Canon City,Sport
+106395393,New York,19.0,0.0,64,4.3,The Gunks,Trad
+105741404,Utah,19.0,0.0,72,4.4,Wasatch Range,Trad
+105761364,Colorado,14.5,0.0,88,2.8,Boulder,Sport
+105732347,Nevada,19.5,0.0,76,4.1,Red Rock,Trad
+105761298,Colorado,26.0,0.0,89,3.6,Boulder,Sport
+105740234,Utah,19.0,0.0,239,3.7,Wasatch Range,Sport
+105806397,International,22.5,0.0,126,4.9,North America,Trad
+105925159,New Hampshire,16.0,0.0,87,3.3,Rumney,Sport
+105870261,Kentucky,27.0,0.0,74,4.6,Red River Gorge,Sport
+105721876,California,17.5,0.0,78,3.7,Joshua Tree National Park,Trad
+106055576,New York,11.5,0.0,104,3.3,The Gunks,Trad
+105760059,Wyoming,19.0,0.0,64,4.6,Vedauwoo,Trad
+105748214,Colorado,18.0,0.0,108,2.7,Boulder,Sport
+105722356,California,24.0,0.0,71,4.9,Joshua Tree National Park,Trad
+105717352,Utah,16.5,-1.0,85,2.8,Moab Area,Trad
+105756796,Colorado,20.0,0.0,242,4.8,Boulder,Trad
+105830801,New York,17.5,0.0,66,3.7,The Gunks,Trad
+105748032,Colorado,25.0,1.0,58,3.8,Boulder,Sport
+105754969,Colorado,22.5,0.0,56,4.5,Boulder,Trad
+105741557,Idaho,14.5,1.5,192,4.0,City of Rocks,Sport
+105790283,Oregon,17.5,0.0,165,4.6,Central Oregon,Trad
+105837865,Utah,23.0,0.0,101,4.0,Wasatch Range,Sport
+106375205,Nevada,23.0,0.0,84,4.6,Red Rock,Sport
+105721861,California,16.5,0.0,76,4.3,Joshua Tree National Park,Trad
+105753343,Colorado,24.0,0.0,71,3.5,Rifle,Sport
+105923640,New Hampshire,16.0,0.0,79,2.9,Rumney,Sport
+105741602,Idaho,19.0,-0.5,186,4.7,City of Rocks,Sport
+105886110,International,20.0,0.0,81,4.5,North America,Trad
+105862966,California,18.0,0.0,75,4.7,Yosemite National Park,Trad
+105718111,Utah,23.5,-1.0,54,4.8,Moab Area,Trad
+105758026,Colorado,17.5,0.0,51,3.1,Boulder,Trad
+105748424,Colorado,27.0,0.0,103,4.5,Boulder,Sport
+105717661,Utah,19.5,0.0,202,3.4,Moab Area,Trad
+105813238,Nevada,22.0,-0.5,116,4.2,Red Rock,Sport
+105878833,California,22.0,0.0,111,4.0,Yosemite National Park,Trad
+106081926,Kentucky,19.0,0.0,90,3.4,Red River Gorge,Sport
+105740519,Utah,18.0,0.0,69,4.6,Wasatch Range,Trad
+105820338,Idaho,16.0,0.0,69,3.6,City of Rocks,Trad
+105944541,Nevada,18.0,0.0,141,3.0,Red Rock,Sport
+105946055,New Hampshire,23.0,0.5,85,3.8,Rumney,Sport
+105732362,Nevada,17.5,0.0,160,4.1,Red Rock,Trad
+105870727,California,21.0,0.0,165,4.8,Yosemite National Park,Trad
+105754636,Colorado,14.5,0.0,82,2.6,Boulder,Trad
+105740996,Idaho,14.5,0.0,343,4.5,City of Rocks,Trad
+105809181,Nevada,17.5,0.5,133,4.4,Red Rock,Trad
+105956679,New Hampshire,19.0,0.0,58,2.7,Rumney,Sport
+105756409,Colorado,19.0,0.0,94,3.7,Canon City,Sport
+105724777,California,17.5,0.0,167,4.1,Joshua Tree National Park,Trad
+105756538,Colorado,23.5,0.0,97,3.8,Boulder,Trad
+105761295,Colorado,24.5,0.0,61,3.8,Boulder,Sport
+105862896,California,18.0,0.0,143,4.7,Yosemite National Park,Trad
+105732602,Nevada,17.5,0.0,89,4.1,Red Rock,Trad
+105996811,Colorado,17.5,1.0,61,2.4,Boulder,Sport
+105732605,Nevada,16.0,0.0,109,3.6,Red Rock,Trad
+105753310,Colorado,16.0,0.0,125,3.5,Boulder,Trad
+105722182,California,17.5,0.0,115,3.7,Joshua Tree National Park,Trad
+105732278,Nevada,20.0,-1.0,75,4.4,Red Rock,Trad
+105732374,Nevada,25.0,1.0,178,4.5,Red Rock,Sport
+105885132,Nevada,23.0,0.0,60,3.9,Red Rock,Sport
+105903672,New Hampshire,16.0,0.0,122,4.5,Cathedral Ledge,Trad
+105732410,Nevada,27.5,1.0,83,5.0,Red Rock,Trad
+105740960,Idaho,22.5,0.0,75,4.1,City of Rocks,Sport
+105799053,New York,22.0,0.0,83,4.6,The Gunks,Trad
+106028074,Utah,20.0,0.0,87,2.9,Maple Canyon,Sport
+105717628,Utah,23.0,2.0,114,3.7,Moab Area,Trad
+105721825,California,19.0,0.0,137,3.5,Joshua Tree National Park,Trad
+105763989,Colorado,22.5,0.0,77,3.9,Boulder,Trad
+105799077,New York,20.0,0.0,110,4.8,The Gunks,Trad
+105808906,Nevada,19.5,0.0,78,3.0,Red Rock,Sport
+105762981,Colorado,17.5,0.0,89,2.5,Boulder,Sport
+105740081,Utah,16.0,0.0,109,3.1,Wasatch Range,Trad
+105749869,Colorado,11.5,0.0,91,2.7,Boulder,Trad
+105811547,New York,17.5,0.0,59,3.9,The Gunks,Trad
+105755821,Colorado,29.0,0.5,86,4.7,Boulder,Sport
+105923805,New Hampshire,16.0,0.0,144,3.5,Rumney,Sport
+105740792,Utah,17.5,0.0,84,3.7,Wasatch Range,Sport
+105756046,Colorado,23.0,0.0,146,4.6,Rifle,Sport
+105752917,Colorado,26.0,0.0,80,4.8,Canon City,Sport
+105717775,Utah,26.5,2.0,64,4.3,Moab Area,Trad
+105826507,Utah,22.0,0.5,43,3.5,Moab Area,Trad
+105848762,Wyoming,13.0,0.0,147,4.8,Wind River Range,Trad
+105741473,Utah,20.0,0.0,145,4.1,Wasatch Range,Sport
+105944445,Nevada,23.0,0.25,109,3.6,Red Rock,Sport
+105717562,Utah,13.0,-1.5,130,3.6,Moab Area,Trad
+105908656,New Hampshire,21.0,0.0,106,3.6,Rumney,Sport
+105861268,California,14.5,0.0,78,4.5,Yosemite National Park,Trad
+106028095,Utah,24.0,1.0,113,4.3,Maple Canyon,Sport
+105751387,Wyoming,17.5,0.0,70,4.2,Vedauwoo,Trad
+105915149,California,20.0,0.0,59,4.7,Yosemite National Park,Trad
+105742076,Idaho,22.5,0.0,61,4.6,City of Rocks,Sport
+105983482,Utah,21.0,0.0,66,3.6,Maple Canyon,Sport
+105732473,Nevada,14.5,0.0,118,3.9,Red Rock,Trad
+105753394,Colorado,20.0,1.0,99,3.8,Rifle,Sport
+105886641,Kentucky,21.0,0.0,88,4.1,Red River Gorge,Sport
+105740036,Utah,14.5,0.0,99,3.7,Wasatch Range,Trad
+105877768,California,19.0,1.5,102,4.0,Yosemite National Park,Trad
+105717526,Utah,24.5,0.0,111,4.4,Moab Area,Trad
+105874604,California,23.0,0.0,67,4.8,Yosemite National Park,Trad
+105748702,Colorado,21.0,0.0,113,4.3,Canon City,Sport
+105952381,California,21.0,0.0,78,4.5,Yosemite National Park,Trad
+105717547,Utah,19.0,-0.5,75,3.6,Moab Area,Trad
+105751159,Wyoming,16.0,0.0,74,4.0,Vedauwoo,Trad
+105859843,Utah,17.5,0.0,131,4.4,Wasatch Range,Trad
+105749614,Colorado,10.5,0.0,116,3.3,Boulder,Trad
+105761349,Colorado,22.5,0.5,109,3.6,Boulder,Sport
+105732287,Nevada,19.0,0.0,139,3.9,Red Rock,Trad
+105799041,New York,21.0,0.0,74,4.7,The Gunks,Trad
+105847471,California,16.0,0.0,138,4.5,Yosemite National Park,Trad
+105723679,California,17.5,0.0,67,3.7,Joshua Tree National Park,Trad
+105751696,Colorado,18.0,0.0,61,4.3,Boulder,Trad
+105962922,New Hampshire,14.5,0.0,143,3.4,Rumney,Sport
+105718693,Utah,16.0,0.0,58,3.0,Moab Area,Trad
+105959390,New Hampshire,21.0,0.0,68,3.9,Rumney,Sport
+105764709,Colorado,23.5,0.75,56,3.5,Boulder,Sport
+105751324,Colorado,19.0,0.0,73,3.5,Boulder,Trad
+105992951,California,21.0,-1.5,62,4.6,Yosemite National Park,Trad
+105739898,Utah,18.0,0.0,288,4.8,Wasatch Range,Trad
+105923839,New Hampshire,17.5,0.0,143,3.7,Rumney,Sport
+105962933,New Hampshire,18.0,0.0,115,3.3,Rumney,Sport
+105717292,Utah,22.5,0.0,75,4.6,Moab Area,Trad
+105717355,Utah,23.5,0.5,66,4.5,Moab Area,Trad
+105761157,Colorado,17.5,0.0,110,4.0,Boulder,Sport
+105822918,Utah,14.5,0.0,102,4.1,Wasatch Range,Trad
+105749872,Colorado,22.5,-0.25,77,4.4,Boulder,Trad
+105764181,Colorado,19.0,0.0,75,2.6,Boulder,Sport
+105811552,Utah,20.0,0.0,41,3.5,Moab Area,Trad
+105721840,California,17.5,0.0,80,3.8,Joshua Tree National Park,Trad
+105732614,Nevada,14.5,0.0,126,2.9,Red Rock,Sport
+105755617,Colorado,23.0,0.0,79,3.7,Boulder,Sport
+105981715,Utah,23.0,0.0,78,4.9,Moab Area,Trad
+105732260,Nevada,17.5,0.0,154,4.1,Red Rock,Trad
+105939236,California,22.0,0.0,113,4.4,Yosemite National Park,Trad
+105718768,Utah,20.0,0.0,147,4.2,Moab Area,Trad
+105721639,California,14.5,0.0,70,3.8,Joshua Tree National Park,Trad
+105740984,Idaho,17.5,0.0,215,4.1,City of Rocks,Trad
+105759594,Colorado,19.0,0.0,103,4.1,Canon City,Sport
+105732545,Nevada,19.0,0.0,130,3.6,Red Rock,Sport
+105740930,Utah,22.5,0.0,151,4.4,Wasatch Range,Sport
+105819714,Utah,20.0,0.0,45,3.1,Moab Area,Trad
+106113458,Colorado,20.0,0.0,113,3.7,Boulder,Sport
+106081931,Kentucky,22.0,0.0,135,4.6,Red River Gorge,Sport
+105954972,California,21.0,0.0,88,4.9,Yosemite National Park,Trad
+105742073,Idaho,16.0,0.0,166,4.4,City of Rocks,Sport
+105758413,Colorado,26.0,0.0,102,3.4,Boulder,Sport
+105927987,New Hampshire,22.0,0.0,158,4.5,Rumney,Sport
+105764211,Colorado,19.0,-0.5,81,4.7,Boulder,Trad
+105906870,New Hampshire,22.0,0.0,138,4.3,Rumney,Sport
+105740951,Idaho,16.5,0.0,138,4.5,City of Rocks,Trad
+106818981,Wyoming,26.0,0.0,88,4.9,Ten Sleep Canyon,Sport
+105721657,California,17.5,0.0,141,3.5,Joshua Tree National Park,Trad
+105740342,Utah,20.0,-1.0,111,3.1,Wasatch Range,Sport
+105750661,Colorado,22.5,0.0,59,4.2,Boulder,Sport
+105722113,California,23.0,-0.5,67,4.9,Joshua Tree National Park,Trad
+105754999,Colorado,26.0,0.0,116,3.6,Boulder,Sport
+105732458,Nevada,21.0,0.0,190,4.0,Red Rock,Trad
+105748783,Colorado,22.0,0.0,82,4.5,Boulder,Trad
+105749728,Colorado,21.0,0.0,105,4.8,Boulder,Trad
+105923586,New Hampshire,16.0,0.0,108,3.9,Cathedral Ledge,Trad
+105804932,New York,17.5,0.0,67,4.1,The Gunks,Trad
+105748912,Colorado,14.5,0.0,63,2.9,Boulder,Trad
+105806583,New York,16.0,0.0,135,4.6,The Gunks,Trad
+105732392,Nevada,20.0,0.0,259,4.8,Red Rock,Trad
+105750649,Colorado,17.5,-0.5,68,4.0,Boulder,Trad
+105752749,Colorado,11.5,0.0,73,4.3,Boulder,Trad
+105754729,Colorado,23.0,0.5,92,3.2,Boulder,Sport
+105717595,Utah,19.5,0.5,92,3.4,Moab Area,Trad
+105748436,Colorado,23.0,0.0,55,3.0,Boulder,Sport
+105763122,Colorado,16.0,-1.0,78,2.9,Boulder,Sport
+105801058,New York,15.0,0.0,101,4.1,The Gunks,Trad
+105925175,New Hampshire,17.5,0.0,104,3.1,Rumney,Sport
+105957789,Colorado,20.0,0.0,84,3.3,Boulder,Sport
+105753100,Colorado,23.0,-1.0,61,4.1,Boulder,Trad
+105835754,California,13.0,0.0,97,4.2,Yosemite National Park,Trad
+105717757,Utah,20.0,0.0,53,3.6,Moab Area,Trad
+105717637,Utah,20.0,0.0,81,4.3,Moab Area,Trad
+105740333,Utah,17.5,0.0,89,2.7,Wasatch Range,Sport
+105740957,Idaho,17.5,0.0,90,4.1,City of Rocks,Trad
+105749242,Colorado,16.0,0.0,144,2.8,Boulder,Trad
+105975956,Colorado,19.0,0.0,145,3.8,Boulder,Sport
+106225449,Wyoming,21.0,0.0,75,4.3,Ten Sleep Canyon,Sport
+105722089,California,17.5,0.0,79,3.6,Joshua Tree National Park,Trad
+105721711,California,21.0,0.0,134,4.0,Joshua Tree National Park,Trad
+105748274,Colorado,19.0,0.0,80,3.0,Boulder,Sport
+105845816,International,19.0,0.0,127,4.5,North America,Trad
+105935083,New Hampshire,24.0,0.0,73,3.8,Rumney,Sport
+105748331,Colorado,22.0,2.0,91,3.3,Boulder,Sport
+105740297,Utah,17.5,0.0,76,3.5,Wasatch Range,Trad
+105961395,New Hampshire,19.0,0.0,76,2.9,Rumney,Sport
+105792792,Utah,24.0,0.0,77,4.6,Zion National Park,Trad
+105922323,New Hampshire,17.5,0.0,132,3.2,Rumney,Sport
+105740648,Utah,19.0,0.0,90,4.2,Wasatch Range,Trad
+105718777,Utah,20.0,0.0,87,4.0,Moab Area,Trad
+105758676,Colorado,19.5,0.0,111,3.7,Canon City,Sport
+105956387,California,17.5,0.0,122,4.5,Yosemite National Park,Trad
+105968658,New York,11.5,0.0,132,3.8,The Gunks,Trad
+105732536,Nevada,18.0,0.0,139,3.0,Red Rock,Sport
+105821465,New York,17.5,0.0,117,4.4,The Gunks,Trad
+105732482,Nevada,19.0,0.0,126,3.9,Red Rock,Trad
+105721621,California,16.5,0.0,118,3.6,Joshua Tree National Park,Trad
+105722263,California,14.5,0.0,131,3.5,Joshua Tree National Park,Trad
+105725788,California,19.0,-0.5,102,4.5,Joshua Tree National Park,Trad
+105820177,Nevada,21.0,0.0,117,3.9,Red Rock,Sport
+105732785,Nevada,19.5,0.0,84,3.5,Red Rock,Sport
+105912416,California,26.5,9.0,172,4.9,Yosemite National Park,Trad
+105739985,Utah,17.5,0.0,82,4.1,Wasatch Range,Trad
+105741584,Idaho,24.0,0.0,102,4.9,City of Rocks,Trad
+105947052,International,14.5,0.0,131,4.6,North America,Trad
+106021168,New Hampshire,21.0,0.0,144,4.6,Rumney,Sport
+105717571,Utah,20.0,0.0,143,4.8,Moab Area,Trad
+105725257,California,14.5,0.0,150,3.3,Joshua Tree National Park,Trad
+105839425,Utah,20.0,0.0,56,4.1,Wasatch Range,Trad
+105868022,Kentucky,17.0,-0.5,150,4.6,Red River Gorge,Trad
+105717376,Utah,20.0,0.0,102,3.9,Moab Area,Trad
+105722347,California,16.0,-0.5,116,4.0,Joshua Tree National Park,Trad
+105717331,Utah,23.5,0.0,103,4.5,Moab Area,Trad
+105799496,New York,14.5,0.0,82,3.6,The Gunks,Trad
+105732248,Nevada,21.0,0.0,70,4.9,Red Rock,Trad
+105921772,New Hampshire,17.5,0.0,92,3.0,Rumney,Sport
+105717334,Utah,23.0,0.0,126,4.6,Moab Area,Trad
+105718018,Utah,20.0,0.0,79,3.7,Moab Area,Trad
+105732941,Nevada,18.0,-1.0,133,3.9,Red Rock,Trad
+105961439,New Hampshire,17.5,0.0,67,3.2,Rumney,Sport
+105717337,Utah,20.0,-1.0,72,3.0,Moab Area,Trad
+105717544,Utah,23.5,0.0,85,5.0,Moab Area,Trad
+105760950,Colorado,20.5,0.5,79,3.8,Boulder,Sport
+105721873,California,14.5,0.0,165,3.8,Joshua Tree National Park,Trad
+105975428,Colorado,22.0,0.0,95,3.9,Boulder,Sport
+105841798,New York,17.5,0.0,83,3.5,The Gunks,Trad
+105748708,Colorado,16.0,0.0,90,3.4,Boulder,Trad
+105898699,California,20.0,0.0,114,4.3,Yosemite National Park,Trad
+105721723,California,8.5,0.0,128,3.3,Joshua Tree National Park,Trad
+105799578,New York,20.0,0.0,62,4.6,The Gunks,Trad
+105913834,Nevada,23.0,-1.0,87,4.0,Red Rock,Sport
+105755077,Colorado,17.5,0.0,101,3.9,Boulder,Trad
+105718189,Utah,23.5,0.0,79,4.7,Moab Area,Trad
+105721888,California,16.0,0.0,95,3.4,Joshua Tree National Park,Trad
+105723325,California,19.0,0.0,160,4.3,Joshua Tree National Park,Trad
+105752524,Wyoming,17.5,-0.5,93,4.5,Vedauwoo,Trad
+105867613,Utah,20.0,2.5,97,2.6,Moab Area,Trad
+105760014,Colorado,14.5,-1.0,69,3.4,Boulder,Trad
+105756691,Colorado,25.0,0.0,110,4.2,Boulder,Sport
+105732446,Nevada,11.5,0.0,133,3.4,Red Rock,Trad
+105717559,Utah,22.5,-0.5,76,4.4,Moab Area,Trad
+105732836,Nevada,20.0,0.0,92,4.6,Red Rock,Trad
+105760656,Colorado,20.0,0.0,116,3.3,Boulder,Sport
+105764982,Colorado,22.0,0.0,45,3.0,Boulder,Trad
+105839153,Wyoming,14.5,0.0,132,4.8,Grand Teton National Park,Trad
+105749290,Colorado,16.5,0.0,107,3.5,Boulder,Trad
+105862944,California,22.0,0.0,142,4.9,Yosemite National Park,Trad
+105920912,New York,20.0,0.0,46,3.6,The Gunks,Trad
+105900951,California,8.5,-2.0,168,4.2,Yosemite National Park,Trad
+106036927,Colorado,22.0,0.0,71,3.6,Canon City,Sport
+105906879,New Hampshire,17.5,0.0,191,4.0,Rumney,Sport
+105717886,Utah,23.5,3.5,64,3.8,Moab Area,Trad
+106029128,New Hampshire,14.5,0.0,73,3.5,Rumney,Sport
+105740387,Utah,17.5,0.0,83,3.8,Wasatch Range,Trad
+105748508,Colorado,11.5,0.0,113,4.1,Boulder,Trad
+105863567,Utah,20.0,0.0,44,4.1,Moab Area,Trad
+105888710,Nevada,21.0,0.0,63,4.7,Red Rock,Trad
+105740435,Utah,16.0,0.0,168,3.8,Wasatch Range,Trad
+105722020,California,16.0,0.0,104,3.6,Joshua Tree National Park,Trad
+105753106,Colorado,23.0,-0.5,76,4.7,Boulder,Trad
+105826771,New York,18.0,0.0,58,4.4,The Gunks,Trad
+105725077,California,13.0,0.0,166,3.8,Joshua Tree National Park,Trad
+105909580,New Hampshire,17.5,0.0,81,4.1,Cathedral Ledge,Trad
+106058073,Utah,17.5,0.0,71,2.9,Moab Area,Trad
+105740015,Utah,14.5,0.0,292,3.9,Wasatch Range,Trad
+105748448,Colorado,16.0,-0.5,131,3.6,Boulder,Sport
+105879421,California,21.0,0.0,92,3.7,Yosemite National Park,Trad
+105749953,Colorado,22.5,-0.25,58,4.2,Boulder,Trad
+105752788,Colorado,20.0,0.0,101,4.5,Canon City,Sport
+105752227,Colorado,17.5,0.0,103,2.7,Boulder,Sport
+105759351,Colorado,22.75,0.0,107,4.1,Boulder,Trad
+105740972,Idaho,14.5,0.0,137,4.7,City of Rocks,Trad
+105871241,California,19.0,0.0,70,3.6,Yosemite National Park,Trad
+105986139,New Hampshire,19.0,0.0,74,2.6,Rumney,Sport
+105717748,Utah,24.5,0.0,75,4.9,Moab Area,Trad
+105806955,International,21.0,0.0,183,5.0,North America,Trad
+105750751,Colorado,23.0,1.5,84,4.1,Boulder,Trad
+105753514,Colorado,18.0,0.0,46,3.4,Boulder,Trad
+105792767,Utah,21.0,0.0,92,4.3,Zion National Park,Trad
+105867836,New Hampshire,27.0,0.0,80,4.8,Rumney,Sport
+105870703,California,21.0,0.5,86,4.8,Yosemite National Park,Trad
+105748915,Colorado,17.5,0.0,63,3.7,Boulder,Trad
+105983024,Colorado,22.0,1.0,50,3.4,Boulder,Sport
+105822133,Colorado,13.0,0.0,72,2.7,Boulder,Trad
+105732254,Nevada,21.0,0.0,126,4.8,Red Rock,Trad
+105732563,Nevada,20.0,0.0,131,2.9,Red Rock,Sport
+105955591,New Hampshire,16.0,0.0,66,2.7,Rumney,Sport
+105732245,Nevada,16.5,0.0,150,3.7,Red Rock,Trad
+105933562,Wyoming,11.5,0.0,304,4.6,Grand Teton National Park,Trad
+105741617,Idaho,14.5,0.0,141,4.0,City of Rocks,Trad
+105749425,Colorado,22.5,0.0,72,4.6,Boulder,Trad
+105945535,California,19.0,0.0,118,4.8,Yosemite National Park,Trad
+105748780,Colorado,22.5,0.0,57,4.3,Boulder,Trad
+105762984,Colorado,20.0,0.0,100,2.9,Boulder,Sport
+105799676,New York,20.0,0.0,62,4.5,The Gunks,Trad
+105831783,Utah,21.0,1.0,65,3.7,Moab Area,Trad
+105721651,California,17.5,0.0,171,3.9,Joshua Tree National Park,Trad
+105748142,Colorado,15.0,0.0,240,4.0,Boulder,Trad
+105718678,Utah,22.0,0.0,50,3.6,Moab Area,Trad
+105908632,New Hampshire,26.5,0.0,77,4.7,Rumney,Sport
+105748897,Colorado,20.0,0.0,87,3.1,Boulder,Trad
+105749080,Colorado,16.0,0.0,143,4.1,Boulder,Trad
+105718054,Utah,22.5,-0.5,54,4.2,Moab Area,Trad
+105751477,Colorado,19.0,-0.5,69,3.1,Boulder,Trad
+105739997,Utah,13.0,0.0,210,3.4,Wasatch Range,Sport
+105717535,Utah,23.5,-1.0,51,3.9,Moab Area,Trad
+105717622,Utah,21.0,0.0,77,4.8,Moab Area,Trad
+105758907,Colorado,21.0,1.5,95,3.0,Boulder,Sport
+105758940,Colorado,20.5,0.5,71,3.4,Boulder,Trad
+105799095,New York,19.0,0.0,101,4.4,The Gunks,Trad
+105874598,California,16.0,0.0,115,3.4,Yosemite National Park,Trad
+105751018,Wyoming,13.0,0.0,112,3.6,Vedauwoo,Trad
+105752422,Colorado,17.5,0.0,105,3.8,Canon City,Sport
+105880759,New Hampshire,17.5,0.0,144,4.7,Cathedral Ledge,Trad
+105939418,Nevada,24.0,1.0,84,4.4,Red Rock,Sport
+105804864,New York,16.0,0.0,63,3.9,The Gunks,Trad
+105748038,Colorado,21.0,0.0,66,3.3,Boulder,Sport
+105818791,Oregon,20.0,0.0,137,4.0,Central Oregon,Sport
+105748008,Colorado,14.5,0.0,80,3.4,Boulder,Trad
+105756595,Colorado,23.0,0.25,111,4.2,Boulder,Sport
+105741854,Idaho,19.0,0.0,128,3.6,City of Rocks,Sport
+105725659,California,22.0,-0.5,110,4.6,Joshua Tree National Park,Trad
+105800326,New York,10.5,0.0,121,3.8,The Gunks,Trad
+105906887,New Hampshire,18.0,0.0,157,4.1,Rumney,Sport
+105732530,Nevada,26.0,1.0,131,4.4,Red Rock,Sport
+105927100,New Hampshire,16.5,0.0,106,3.2,Rumney,Sport
+105722353,California,21.0,-1.5,111,4.8,Joshua Tree National Park,Trad
+105721630,California,20.0,0.0,104,3.6,Joshua Tree National Park,Trad
+105862525,Idaho,19.0,0.0,65,4.1,City of Rocks,Trad
+105878180,New Hampshire,16.0,0.0,109,2.1,Rumney,Sport
+105910904,International,19.0,0.0,115,4.5,North America,Trad
+106125070,Kentucky,21.0,1.0,211,4.6,Red River Gorge,Sport
+105876683,New Hampshire,16.5,0.0,326,4.3,Rumney,Sport
+105961400,New Hampshire,17.5,0.0,144,3.7,Rumney,Sport
+105732914,Nevada,22.0,0.0,84,3.1,Red Rock,Sport
+105748978,Colorado,21.0,0.0,88,3.8,Canon City,Sport
+105741476,Utah,22.5,0.0,128,4.2,Wasatch Range,Trad
+105750523,Colorado,22.5,0.0,46,4.5,Boulder,Trad
+105751717,Wyoming,24.0,0.0,62,4.9,Vedauwoo,Trad
+106133896,New York,11.5,0.0,108,3.4,The Gunks,Trad
+105724495,California,20.0,0.0,83,3.8,Joshua Tree National Park,Trad
+105732377,Nevada,13.0,0.0,158,3.7,Red Rock,Trad
+105740444,Utah,16.0,0.0,62,4.0,Wasatch Range,Trad
+105741164,Utah,22.5,0.0,90,4.8,Wasatch Range,Trad
+105880631,Nevada,19.0,0.0,102,3.3,Red Rock,Sport
+105973663,California,21.0,1.0,123,4.4,Yosemite National Park,Trad
+105862915,California,19.5,0.0,284,4.9,Yosemite National Park,Trad
+106081917,Kentucky,22.5,0.0,149,4.6,Red River Gorge,Sport
+105740033,Utah,14.5,0.0,89,3.6,Wasatch Range,Trad
+105759081,Colorado,22.5,0.0,94,3.7,Canon City,Sport
+105896493,New Hampshire,24.0,0.0,44,4.0,Rumney,Sport
+105803407,New York,13.0,0.0,95,4.1,The Gunks,Trad
+105717499,Utah,24.5,0.0,99,4.9,Moab Area,Trad
+105739934,Utah,16.0,-0.5,116,4.1,Wasatch Range,Sport
+105748918,Colorado,14.5,0.0,49,2.4,Boulder,Trad
+105724426,California,19.0,0.0,70,3.8,Joshua Tree National Park,Trad
+106466173,Colorado,19.0,0.0,63,2.6,Boulder,Sport
+105718642,Utah,26.5,0.0,147,4.9,Moab Area,Trad
+105748466,Colorado,23.0,0.0,66,3.9,Boulder,Trad
+105722200,California,22.0,0.0,148,3.7,Joshua Tree National Park,Trad
+105892056,Nevada,23.0,0.0,89,3.8,Red Rock,Sport
+105910536,New Hampshire,23.0,0.0,99,4.8,Rumney,Sport
+105732542,Nevada,17.5,0.0,83,2.9,Red Rock,Sport
+105752896,Colorado,20.5,0.5,102,3.7,Canon City,Sport
+105753265,Colorado,22.5,-0.5,69,4.1,Boulder,Trad
+105732608,Nevada,16.0,0.0,88,4.0,Red Rock,Trad
+105763692,Colorado,24.5,0.0,59,3.7,Boulder,Trad
+105805741,Washington,22.5,0.0,111,4.8,Central-West Cascades & Seattle,Trad
+105732539,Nevada,17.5,0.0,91,2.9,Red Rock,Sport
+105751645,Colorado,10.5,0.0,100,4.5,Boulder,Trad
+105961410,New Hampshire,19.0,0.0,75,3.4,Rumney,Sport
+105764985,Colorado,19.0,0.0,148,3.7,Boulder,Sport
+105748175,Colorado,15.0,0.0,136,3.5,Boulder,Trad
+105756484,Colorado,16.0,1.0,129,3.0,Boulder,Sport
+105717919,Utah,20.0,-1.0,47,3.7,Moab Area,Trad
+105939242,California,16.0,0.0,124,4.3,Yosemite National Park,Trad
+105732467,Nevada,19.0,-1.0,142,4.4,Red Rock,Trad
+105748259,Colorado,23.5,0.0,65,2.8,Boulder,Sport
+105910806,International,19.0,0.0,90,4.4,North America,Trad
+106035142,Utah,23.0,0.0,46,3.5,Moab Area,Trad
+105749041,Colorado,16.0,0.0,131,3.9,Boulder,Trad
+105751315,Colorado,19.0,0.0,128,4.4,Boulder,Trad
+105938018,New Hampshire,11.5,0.0,157,4.0,Cathedral Ledge,Trad
+105921711,New Hampshire,22.5,0.0,75,3.1,Rumney,Sport
+105851716,Wyoming,20.0,0.0,71,4.3,Lander Area,Sport
+105750403,Colorado,21.0,0.0,58,4.2,Boulder,Trad
+105754714,Colorado,20.0,0.0,120,3.9,Boulder,Trad
+105750109,Colorado,17.5,0.0,87,2.9,Boulder,Trad
+105878619,New Hampshire,18.0,0.0,132,3.7,Rumney,Sport
+105718645,Utah,20.0,0.0,81,3.0,Moab Area,Trad
+105748367,Colorado,14.5,0.0,116,2.7,Boulder,Trad
+105748211,Colorado,19.0,0.0,105,2.9,Boulder,Sport
+105880940,Kentucky,19.0,0.0,121,4.0,Red River Gorge,Sport
+105717514,Utah,19.5,-0.5,74,3.4,Moab Area,Trad
+105740954,Idaho,21.0,-0.5,57,4.3,City of Rocks,Sport
+105717529,Utah,21.0,0.0,126,4.6,Moab Area,Trad
+105834097,Utah,19.5,0.0,81,4.0,Wasatch Range,Trad
+106018746,New York,17.5,0.0,63,3.9,The Gunks,Trad
+105718657,Utah,20.0,0.0,134,4.1,Moab Area,Trad
+105874465,California,21.0,0.0,191,4.8,Yosemite National Park,Trad
+105732389,Nevada,17.5,0.0,67,3.9,Red Rock,Trad
+105749926,Colorado,24.5,0.5,76,4.3,Canon City,Sport
+105936677,Utah,13.0,0.0,112,3.0,Moab Area,Trad
+105721816,California,20.0,0.0,100,4.9,Joshua Tree National Park,Trad
+105724327,California,16.0,0.0,130,3.4,Joshua Tree National Park,Trad
+105756730,Colorado,21.0,1.0,121,2.6,Boulder,Sport
+105862936,California,17.5,0.0,71,4.6,Yosemite National Park,Trad
+105721627,California,17.5,0.0,133,3.9,Joshua Tree National Park,Trad
+105741461,Utah,19.0,0.0,67,3.4,Wasatch Range,Trad
+105741905,Utah,26.0,0.0,70,4.5,Wasatch Range,Sport
+105732386,Nevada,26.5,0.5,138,4.9,Red Rock,Trad
+105825209,Wyoming,16.5,0.0,106,4.8,Wind River Range,Trad
+105811114,Utah,20.0,0.0,130,4.2,Moab Area,Trad
+105752245,Wyoming,20.0,0.0,67,4.7,Vedauwoo,Trad
+105749632,Colorado,18.0,0.0,65,3.7,Boulder,Trad
+105868264,New York,16.5,0.0,131,4.3,The Gunks,Trad
+105717532,Utah,26.5,2.0,95,4.8,Moab Area,Trad
+105722305,California,16.0,0.0,242,4.3,Joshua Tree National Park,Trad
+105764685,Colorado,20.0,0.5,105,4.0,Boulder,Sport
+105717442,Utah,20.0,0.0,133,4.0,Moab Area,Trad
+105752116,Colorado,22.0,2.0,74,2.6,Boulder,Sport
+105761964,Colorado,19.0,0.0,91,2.7,Boulder,Sport
+105799190,New York,16.0,0.0,137,4.0,The Gunks,Trad
+105717718,Utah,16.0,0.0,121,5.0,Zion National Park,Trad
+105739913,Utah,19.0,0.0,160,3.4,Wasatch Range,Sport
+105748478,Colorado,26.0,0.0,99,3.6,Boulder,Sport
+105752272,Colorado,22.0,1.0,75,3.4,Boulder,Sport
+105717466,Utah,26.5,2.0,55,4.9,Moab Area,Trad
+105739895,Utah,16.0,0.0,337,4.6,Wasatch Range,Trad
+105725101,California,21.0,0.0,146,4.9,Joshua Tree National Park,Trad
+105893126,Kentucky,22.0,0.0,81,4.3,Red River Gorge,Sport
+105790327,Oregon,19.0,0.0,168,4.0,Central Oregon,Sport
+105846621,Wyoming,20.0,0.0,153,4.3,Ten Sleep Canyon,Sport
+105903866,New Hampshire,14.5,0.0,105,3.1,Cathedral Ledge,Trad
+105722050,California,19.0,0.0,180,4.2,Joshua Tree National Park,Trad
+105860741,Kentucky,14.5,0.0,111,4.7,Red River Gorge,Trad
+105717895,Utah,21.0,0.0,127,4.6,Zion National Park,Sport
+105717658,Utah,23.0,0.0,89,3.9,Moab Area,Trad
+105740027,Utah,16.0,-0.5,148,3.8,Wasatch Range,Trad
+105898680,California,17.5,0.0,58,4.1,Yosemite National Park,Trad
+105753262,Colorado,21.0,0.0,52,3.5,Boulder,Trad
+105753610,Colorado,22.0,0.0,50,4.6,Boulder,Trad
+105991865,California,22.5,0.0,58,4.9,Yosemite National Park,Trad
+105845597,Idaho,26.0,0.0,61,4.4,City of Rocks,Sport
+105717574,Utah,23.0,0.0,60,4.4,Moab Area,Trad
+105724180,California,17.5,0.0,134,3.3,Joshua Tree National Park,Trad
+105963328,Utah,26.5,0.0,57,4.1,Moab Area,Trad
+105898433,New Hampshire,22.0,0.0,85,4.1,Rumney,Sport
+105718687,Utah,20.0,0.0,118,4.7,Moab Area,Trad
+105732632,Nevada,17.5,0.0,83,3.8,Red Rock,Trad
+105741848,Idaho,17.5,1.5,161,3.6,City of Rocks,Sport
+105717406,Utah,22.5,-0.5,54,4.3,Moab Area,Trad
+105931527,New Hampshire,19.0,0.0,85,3.9,Rumney,Sport
+105718432,Utah,25.0,0.5,72,4.8,Moab Area,Trad
+105884378,New York,16.0,0.0,75,3.6,The Gunks,Trad
+106057661,New Hampshire,17.5,1.0,71,2.9,Rumney,Sport
+105740639,Utah,19.0,0.0,68,4.3,Wasatch Range,Sport
+105752419,Colorado,22.5,0.0,112,4.5,Canon City,Sport
+105752236,Wyoming,20.0,0.0,60,4.5,Vedauwoo,Trad
+105756940,Colorado,22.5,0.0,58,4.0,Boulder,Trad
+105741101,Idaho,16.0,0.0,107,3.8,City of Rocks,Trad
+105923587,New Hampshire,15.0,0.0,89,3.0,Rumney,Sport
+105814121,Wyoming,10.5,0.0,146,4.3,Grand Teton National Park,Trad
+105748310,Colorado,19.0,0.0,88,3.0,Boulder,Sport
+105753211,Colorado,22.0,0.0,60,4.2,Boulder,Trad
+106052151,New Hampshire,14.5,0.0,96,3.4,Rumney,Sport
+105756106,Colorado,22.75,-0.25,74,3.6,Boulder,Sport
+105857281,Utah,17.5,0.0,115,3.8,Maple Canyon,Sport
+105923651,New Hampshire,14.5,0.0,95,2.9,Rumney,Sport
+105732383,Nevada,16.5,0.0,90,3.7,Red Rock,Trad
+105962956,New Hampshire,20.0,0.0,75,3.4,Rumney,Sport
+105748199,Colorado,16.0,0.0,108,4.0,Boulder,Trad
+105827358,Wyoming,17.5,0.0,87,4.0,Lander Area,Sport
+105828999,New York,16.5,0.0,69,3.4,The Gunks,Trad
+105880787,New Hampshire,19.0,0.0,100,4.7,Cathedral Ledge,Trad
+105717769,Utah,21.0,0.0,89,4.4,Moab Area,Trad
+105717673,Utah,20.0,0.0,87,3.1,Moab Area,Trad
+105753391,Colorado,22.5,-0.5,107,4.2,Rifle,Sport
+105803185,New York,20.0,0.0,52,4.4,The Gunks,Trad
+105722227,California,17.5,0.0,160,4.1,Joshua Tree National Park,Trad
+105721807,California,14.5,-1.0,159,3.7,Joshua Tree National Park,Trad
+105756358,Colorado,16.0,1.5,116,2.8,Boulder,Sport
+105741521,Idaho,19.0,0.0,66,4.5,City of Rocks,Trad
+105740438,Utah,14.5,0.0,69,3.4,Wasatch Range,Trad
+105749899,Colorado,17.5,-0.5,84,3.1,Boulder,Trad
+105760206,Colorado,16.0,0.0,91,3.5,Boulder,Trad
+105870690,California,22.0,0.0,83,4.7,Yosemite National Park,Trad
+105732485,Nevada,22.0,-0.5,91,4.4,Red Rock,Trad
+105722572,California,22.5,0.0,93,4.6,Joshua Tree National Park,Trad
+105760854,Colorado,22.5,0.0,60,3.5,Boulder,Sport
+105740084,Utah,17.5,0.0,80,3.8,Wasatch Range,Trad
+105756946,Colorado,19.0,0.0,83,3.0,Canon City,Sport
+105818206,New York,19.5,0.0,67,4.3,The Gunks,Trad
+105758092,Colorado,23.5,0.0,93,4.1,Boulder,Trad
+106132196,Utah,21.0,0.0,129,3.7,Moab Area,Trad
+105751408,Colorado,23.0,0.0,52,3.6,Boulder,Trad
+105722344,California,20.0,0.0,112,4.7,Joshua Tree National Park,Trad
+106601301,Nevada,22.0,1.0,93,3.5,Red Rock,Sport
+105756556,Colorado,14.5,0.0,89,3.0,Boulder,Trad
+105808935,Nevada,26.5,0.5,108,4.6,Red Rock,Sport
+105718171,Utah,23.5,-1.0,58,4.7,Moab Area,Trad
+105732617,Nevada,21.0,0.0,100,4.5,Red Rock,Trad
+105750730,Colorado,21.0,-1.0,56,4.1,Boulder,Trad
+105841807,New York,18.0,0.0,79,4.5,The Gunks,Trad
+105926283,New Hampshire,22.5,0.0,74,3.6,Rumney,Sport
+106238205,New York,14.5,0.0,76,3.7,The Gunks,Trad
+105884809,New Hampshire,22.5,0.0,90,4.5,Rumney,Sport
+105799128,New York,17.0,0.0,98,4.0,The Gunks,Trad
+105811846,Utah,23.0,-0.5,78,4.4,Moab Area,Trad
+105717424,Utah,20.0,0.0,149,4.0,Moab Area,Trad
+105740093,Utah,18.0,0.0,111,4.1,Wasatch Range,Trad
+105840692,California,21.5,0.0,145,4.7,Yosemite National Park,Trad
+105925163,New Hampshire,13.0,0.0,106,2.8,Rumney,Sport
+105718525,Utah,20.0,0.0,54,3.5,Moab Area,Trad
+105863822,California,24.0,0.0,92,5.0,Yosemite National Park,Trad
+105722845,California,19.5,0.0,58,3.4,Joshua Tree National Park,Trad
+105717400,Utah,23.5,3.5,94,3.8,Moab Area,Trad
+105732590,Nevada,16.0,0.0,168,4.1,Red Rock,Trad
+105752149,Wyoming,23.0,0.0,60,4.6,Vedauwoo,Trad
+105748373,Colorado,14.5,0.0,71,2.8,Boulder,Trad
+105792804,Utah,17.5,0.0,140,4.4,Zion National Park,Trad
+105931493,New Hampshire,19.0,0.0,125,4.5,Rumney,Sport
+105827746,Wyoming,16.0,0.0,98,4.2,Wind River Range,Trad
+105732686,Nevada,26.0,0.0,73,4.2,Red Rock,Sport
+105935097,New Hampshire,20.0,0.0,250,4.3,Rumney,Sport
+105722014,California,19.0,0.0,80,3.8,Joshua Tree National Park,Trad
+105936538,California,24.0,0.0,62,4.9,Yosemite National Park,Trad
+105949212,New Hampshire,14.5,0.0,109,4.4,Cathedral Ledge,Trad
+105732554,Nevada,16.0,0.0,114,2.5,Red Rock,Sport
+105950475,New York,13.0,0.0,75,3.8,The Gunks,Trad
+105971474,New Hampshire,17.5,0.0,88,2.5,Rumney,Sport
+105749038,Colorado,16.0,0.0,106,3.5,Boulder,Trad
+105759105,Colorado,16.5,0.0,118,3.3,Canon City,Sport
+105717436,Utah,23.0,0.5,122,3.6,Moab Area,Trad
+105803440,Oregon,20.0,0.0,116,4.4,Central Oregon,Sport
+105849794,Nevada,20.0,0.0,110,3.6,Red Rock,Sport
+106264203,Utah,23.0,0.25,71,3.4,Maple Canyon,Sport
+105718735,Utah,26.0,0.0,50,4.4,Moab Area,Trad
+105886700,Utah,21.0,0.0,71,3.8,Moab Area,Trad
+105934973,Utah,18.0,0.0,78,3.2,Moab Area,Trad
+105751321,Colorado,17.5,0.5,67,3.4,Boulder,Trad
+105717469,Utah,26.5,0.0,83,4.5,Moab Area,Trad
+105842825,International,17.5,0.0,161,4.6,North America,Trad
+105718387,Utah,23.0,0.0,76,4.7,Moab Area,Trad
+105764586,Colorado,17.5,0.0,67,3.1,Boulder,Trad
+105923367,California,18.0,0.0,95,4.4,Yosemite National Park,Trad
+105721900,California,20.0,0.0,55,4.0,Joshua Tree National Park,Trad
+105962344,New Hampshire,17.5,0.0,58,2.9,Rumney,Sport
+105740258,Utah,22.5,0.0,92,3.1,Wasatch Range,Sport
+105741581,Idaho,19.0,0.0,164,4.6,City of Rocks,Trad
+105917803,New Hampshire,22.0,0.0,105,3.6,Rumney,Sport
+105749779,Colorado,28.0,0.0,69,4.4,Boulder,Sport
+105799421,New York,14.5,0.0,162,4.6,The Gunks,Trad
+106089724,New Hampshire,22.0,0.5,61,3.1,Rumney,Sport
+105754246,Colorado,21.0,0.0,88,3.8,Rifle,Sport
+105732413,Nevada,17.5,0.0,127,3.9,Red Rock,Trad
+105757534,Colorado,18.0,0.0,85,3.5,Boulder,Trad
+105955582,New Hampshire,21.5,0.0,61,3.5,Rumney,Sport
+105722170,California,16.0,-0.5,241,3.8,Joshua Tree National Park,Trad
+106586504,Kentucky,22.5,0.0,172,4.5,Red River Gorge,Sport
+105721972,California,14.5,0.0,130,3.4,Joshua Tree National Park,Trad
+105920872,New Hampshire,16.0,-0.5,138,4.4,Cathedral Ledge,Trad
+105721783,California,20.0,1.0,110,3.3,Joshua Tree National Park,Trad
+105847449,Idaho,19.0,0.0,67,3.3,City of Rocks,Sport
+105956413,Wyoming,19.0,0.0,72,4.5,Ten Sleep Canyon,Sport
+105718006,Utah,16.0,-0.5,103,3.1,Moab Area,Trad
+105723454,California,16.5,-1.0,225,3.5,Joshua Tree National Park,Trad
+105755044,Colorado,23.5,0.5,65,3.6,Boulder,Sport
+105758257,Colorado,24.0,1.0,95,3.5,Boulder,Sport
+105845493,California,24.0,0.0,61,5.0,Yosemite National Park,Trad
+106009586,New Hampshire,17.5,0.0,93,3.3,Rumney,Sport
+105725407,California,16.0,0.0,97,3.4,Joshua Tree National Park,Trad
+105760608,Colorado,17.5,0.0,176,3.0,Boulder,Sport
+105795287,Utah,23.0,2.0,64,4.6,Moab Area,Trad
+105878174,New Hampshire,21.0,0.0,158,3.9,Rumney,Sport
+105722164,California,14.5,0.0,103,3.7,Joshua Tree National Park,Trad
+105724189,California,14.5,0.0,116,2.9,Joshua Tree National Park,Trad
+105750652,Colorado,18.0,0.0,51,3.9,Boulder,Trad
+105742067,Idaho,19.0,0.0,86,3.7,City of Rocks,Sport
+106013257,New Hampshire,23.0,0.0,54,4.0,Rumney,Sport
+105718303,Utah,21.0,-1.75,53,4.0,Moab Area,Trad
+105723781,California,14.5,0.0,172,3.5,Joshua Tree National Park,Trad
+105753754,Colorado,21.0,-1.0,63,3.0,Rifle,Sport
+106032393,California,13.0,0.0,157,3.4,Yosemite National Park,Trad
+105748795,Colorado,17.5,0.0,71,3.4,Boulder,Trad
+105721885,California,17.5,0.0,69,3.3,Joshua Tree National Park,Trad
+105754918,Colorado,14.5,0.0,79,2.7,Boulder,Trad
+105763785,Colorado,20.0,0.0,52,3.8,Boulder,Trad
+105790290,Oregon,20.0,0.5,124,4.8,Central Oregon,Trad
+105764409,Colorado,19.0,-0.5,62,2.4,Boulder,Sport
+105966659,New Hampshire,14.5,0.0,129,2.7,Rumney,Sport
+105749746,Colorado,14.5,0.0,101,2.8,Boulder,Trad
+105755239,Colorado,18.0,0.0,88,3.7,Boulder,Trad
+105741047,Idaho,14.5,0.0,86,3.6,City of Rocks,Trad
+105740717,Utah,22.0,0.0,70,3.6,Wasatch Range,Sport
+105741569,Idaho,14.5,0.0,93,3.4,City of Rocks,Sport
+105862632,California,17.5,0.0,166,4.4,Yosemite National Park,Trad
+105740816,Utah,16.0,0.0,62,3.9,Wasatch Range,Trad
